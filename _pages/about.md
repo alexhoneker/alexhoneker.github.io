@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-# Welcome! 
+## Welcome! 
 
 I am a Lecturer in the Department of Political Science at <a href='https://www.clemson.edu/cbshs/departments/political-science/'>Clemson University</a>. Previously, I was an Assistant Professor of Political Science at <a href='https://www.qatar.tamu.edu/academics/arts-and-sciences/'>Texas A&M University at Qatar</a>. I received my PhD in Political Science from the <a href='https://www.polisci.pitt.edu/'>University of Pittsburgh</a>. I hold a B.A. in Political Science from the <a href='https://olemiss.edu/'>University of Mississippi</a> and an M.A. in Public Policy from <a href='https://www.utdt.edu/'>Universidad Torcuato Di Tella</a>.
 
