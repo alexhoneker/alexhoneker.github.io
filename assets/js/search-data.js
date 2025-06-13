@@ -480,28 +480,28 @@ ninja.data = [{
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/https://github.com/alexhoneker", "_blank");
+          window.open("https://github.com/alexhoneker", "_blank");
         },
       },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/a-honeker/", "_blank");
+          window.open("https://www.linkedin.com/in/a-honeker", "_blank");
         },
       },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/https://orcid.org/0000-0003-1642-496X", "_blank");
+          window.open("https://orcid.org/0000-0003-1642-496X", "_blank");
         },
       },{
         id: 'social-researchgate',
         title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.researchgate.net/profile/https://www.researchgate.net/profile/Alex-Honeker/", "_blank");
+          window.open("https://www.researchgate.net/profile/Alex-Honeker/", "_blank");
         },
       },{
         id: 'social-scholar',
