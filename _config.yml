@@ -194,6 +194,8 @@ exclude:
   - _news/announcement_3.md
   - _pages/blog.md
   - _posts/
+  - _books
+  - /the_godfather.md
 keep_files:
   - CNAME
   - .nojekyll
