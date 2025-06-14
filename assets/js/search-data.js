@@ -42,16 +42,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-announcement-3",
-          title: 'Announcement_3',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_3/";
             },},{id: "news-new-publication-large-blue-circle-this-land-is-our-land-radical-right-parties-and-the-environmental-issue-in-europe-party-politics-ungated",
           title: 'NEW PUBLICATION :large_blue_circle: This land is our land: Radical right parties and the...',
           description: "",
