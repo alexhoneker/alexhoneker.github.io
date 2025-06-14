@@ -37,13 +37,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-new-publication-large-blue-circle-this-land-is-our-land-radical-right-parties-and-the-environmental-issue-in-europe-party-politics-ungated",
-          title: 'NEW PUBLICATION :large_blue_circle: This land is our land: Radical right parties and the...',
+        },{id: "news-new-publication-this-land-is-our-land-radical-right-parties-and-the-environmental-issue-in-europe-party-politics-ungated",
+          title: '🔵NEW PUBLICATION: This land is our land: Radical right parties and the environmental...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
