@@ -10,11 +10,10 @@ nav_order: 2
 <!-- _pages/research.md -->
 
 <!-- Bibsearch Feature -->
-
 {% include bib_search.liquid %}
 
 <div class="research">
 
-{% workingpapers %}
+{% bibliography --query @unpublished %}
 
 </div>
