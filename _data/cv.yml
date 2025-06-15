@@ -2,18 +2,18 @@
 #  type: map
 #  contents:
 #    - name: Full Name
-#      value: Albert Einstein
+#      value: Alex Honeker
 #    - name: Date of Birth
-#      value: 14th March 1879
+#      value: 10th November 1986
 #    - name: Languages
-#      value: English, German
+#      value: English, Spanish, German 
 
 #- title: Education
 #  type: time_table
 #  contents:
-#    - title: PhD
-#      institution: University of Zurich, Zurich, Switzerland
-#      year: 1905
+#    - title: PhD, Political Science
+#      institution: University of Pittsburgh, Pittsburgh, PA, USA
+#      year: 2023
 #      description:
 #        - Description 1.
 #        - Description 2.
@@ -21,9 +21,9 @@
 #          contents:
 #            - Sub-description 1.
 #            - Sub-description 2.
-#    - title: Federal teaching diploma
-#      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-#      year: 1900
+#    - title: MA, Public Policy
+#      institution: Universidad Torcuato Di Tella, Buenos Aires, Argentina
+#      year: 2018
 #      description:
 #        - Description 1.
 #        - Description 2.
@@ -31,9 +31,9 @@
 #- title: Experience
 #  type: time_table
 #  contents:
-#    - title: Professor of Theoretical Physics
-#      institution: Institute for Advanced Study, Princeton University
-#      year: 1933 - 1955
+#    - title: Lecturer, Political Science
+#      institution: Clemson University, Clemson, SC, USA
+#      year: 2024 - Present
 #      description:
 #        - Description 1.
 #        - Description 2.
@@ -41,9 +41,9 @@
 #          contents:
 #            - Sub-description 1.
 #            - Sub-description 2.
-#    - title: Visiting Professor
-#      institution: California Institute of Technology, Pasadena, California, US
-#      year: 1933
+#    - title: Instructional Assistant Professor, Political Science 
+#      institution: Texas A&M University at Qatar, Doha, Qatar
+#      year: 2023 - 2024
 #      description:
 #        - Description 1.
 #        - Description 2.
