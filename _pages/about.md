@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -35,7 +35,7 @@ I am a Lecturer in the Department of Political Science at <a href='https://www.c
 
 My research interests lie at the intersection of political behavior, international political economy, and party politics. I explore individual attitudes and party competition on globalization-related issues, with a special focus on international trade and economic globalization. I explore these topics with a regional focus on Europe and the United States, and employing survey experiments, observational data, and quantitative text analysis.
 
-My work has been published in the *Review of International Political Economy*, *Party Politics*, and *Foreign Policy Analysis*, and is forthcoming in *Electoral Studies*. 
+My work has been published in the *Review of International Political Economy*, *Party Politics*, and *Foreign Policy Analysis*, and is forthcoming in *Electoral Studies*. <br><br> 
 
 
 🟦**NEW PUBLICATION:** [This land is our land: Radical right parties and the environmental issue in Europe](https://doi.org/10.1177/13540688251347882). *Party Politics*. [<a href="https://www.researchgate.net/publication/392469332_This_Land_is_Our_Land_Radical_Right_Parties_and_the_Environmental_Issue_in_Europe">Ungated</a>]
