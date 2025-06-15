@@ -13,7 +13,7 @@ scholar:
 ---
 
 <!-- Optional search -->
-{% include bib_search.liquid %}
+<!-- {% include bib_search.liquid %} -->
 
 <div class="publications">
   {% bibliography %}
