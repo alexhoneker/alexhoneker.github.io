@@ -7,14 +7,22 @@ nav: true
 nav_order: 2
 ---
 
-<!-- _pages/research.md -->
-
-<!-- Bibsearch Feature -->
-
-{% include bib_search.liquid %}
-
-<div class="research">
-
-{% bibliography %}
-
-</div>
+@article{HonekerSpoon2025,
+  abbr={Party Politics},
+  bibtex_show={true},
+  title={This land is our land: Radical right parties and the environmental issue in Europe},
+  author={Honeker, Alex, and Spoon, Jae-Jae},
+  abstract={Recent research has demonstrated that non-mainstream parties are expanding their issue emphasis beyond their owned issues. In this article, we expand this research to understand radical right parties’ environmental issue emphasis and what explains this increasing emphasis. We argue that radical right parties engage in a two-pronged strategy of responsiveness and differentiation on the environment. In response to green parties’ and the public’s increase in environmental salience and green parties’ polling success, radical right parties increase their emphasis on both the environment more generally and on environmental chauvinism, a particular nationalist brand of environmentalism. We demonstrate this using Twitter/X data from radical right parties in Western Europe from 2019 to 2021. These findings have important implications for understanding issue evolution and party competition in the changing party systems of Europe.},
+  journal={Party Politics},
+  volume={},
+  number={},
+  pages={},
+  year={2025},
+  publisher={Sage},
+  doi={10.1177/13540688251347882},
+  url={https://journals.sagepub.com/doi/10.1177/13540688251347882},
+  dimensions={true},
+  google_scholar_id={},
+  preview={PP_2025.png},
+  additional_info={. [Ungated](https://www.researchgate.net/publication/392469332_This_Land_is_Our_Land_Radical_Right_Parties_and_the_Environmental_Issue_in_Europe)}
+}
