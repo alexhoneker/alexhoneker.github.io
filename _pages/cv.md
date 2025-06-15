@@ -5,5 +5,9 @@ title: CV
 nav: true
 nav_order: 4
 cv_pdf: Honeker_CV_Jun2025.pdf # you can also use external links here
-description: You can access my CV [here](Honeker_CV_Jun2025.pdf). # This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+description:  # This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
 ---
+
+You can access my CV here: 
+
+<a href="/assets/pdf/Honeker_CV_Jun2025.pdf" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Download CV</a>
