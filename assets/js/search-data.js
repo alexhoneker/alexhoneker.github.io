@@ -37,10 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-new-publication-this-land-is-our-land-radical-right-parties-and-the-environmental-issue-in-europe-party-politics-ungated",
-          title: '🔵NEW PUBLICATION: This land is our land: Radical right parties and the environmental...',
-          description: "",
-          section: "News",},{id: "projects-project-1",
+        },{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
