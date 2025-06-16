@@ -14,7 +14,7 @@ Department of Political Science
 Clemson University   
 Clemson, SC 29634  
 
-<a href="jhoneke@clemson.edu"
+<a href="mailto:jhoneke@clemson.edu"
    style="display: inline-block; background-color: #00369f; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;"
    target="_blank" rel="noopener noreferrer">
    `jhoneke@clemson.edu`
