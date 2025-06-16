@@ -13,6 +13,6 @@ You can access my CV here:
 <a href="/assets/pdf/Honeker_CV_Jun2025.pdf"
    style="display: inline-block; background-color: #00369f; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;"
    target="_blank" rel="noopener noreferrer">
-   Download CV
+   `Download CV`
 </a>
 
