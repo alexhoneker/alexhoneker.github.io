@@ -1,5 +1,5 @@
 ---
-layout: contact
+layout: page
 permalink: /contact/
 title: Contact
 nav: true
