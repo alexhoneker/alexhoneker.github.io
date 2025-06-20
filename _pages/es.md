@@ -4,6 +4,7 @@ permalink: /es/
 title: ES
 nav: true
 nav_order: 6 
+hide_title: true
 
 profile:
   align: right
