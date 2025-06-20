@@ -51,6 +51,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/es/";
           },
+        },{id: "nav-de",
+          title: "DE",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/de/";
+          },
         },{
         id: 'social-bluesky',
         title: 'Bluesky',
