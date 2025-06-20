@@ -30,7 +30,7 @@ latest_posts:
 ---
 
 
-####¡Bienvenidos! 
+**¡Bienvenidos!** 
 
 Soy Lecturer en el Departamento de Ciencia Política en <a href='https://www.clemson.edu/cbshs/departments/political-science/'>Clemson University</a>. Previamente, fui Assistant Professor en ciencia política en <a href='https://www.qatar.tamu.edu/academics/arts-and-sciences/'>Texas A&M University at Qatar</a>. Obtuve mi doctorado en ciencia política en la <a href='https://www.polisci.pitt.edu/'>University of Pittsburgh</a>. Tengo un B.A. en ciencia política de la <a href='https://olemiss.edu/'>University of Mississippi</a> y un M.A. en políticas públicas de la <a href='https://www.utdt.edu/'>Universidad Torcuato Di Tella</a>.
 
