@@ -1,10 +1,9 @@
 ---
-layout: page
+layout: about
 permalink: /es/
 title: ES
 nav: true
 nav_order: 6 
----
 
 profile:
   align: right
@@ -16,7 +15,21 @@ profile:
     <p>Clemson University</p>
     <p>Clemson, SC 29634 </p>
 
-    
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
+
+announcements:
+  enabled: false # includes a list of news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 5 # leave blank to include all the news in the `_news` folder
+
+latest_posts:
+  enabled: false
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
+---
+
+
 ¡Bienvenidos! 
 
 Soy Lecturer en el Departamento de Ciencia Política en <a href='https://www.clemson.edu/cbshs/departments/political-science/'>Clemson University</a>. Previamente, fui Assistant Professor en ciencia política en <a href='https://www.qatar.tamu.edu/academics/arts-and-sciences/'>Texas A&M University at Qatar</a>. Obtuve mi doctorado en ciencia política en la <a href='https://www.polisci.pitt.edu/'>University of Pittsburgh</a>. Tengo un B.A. en ciencia política de la <a href='https://olemiss.edu/'>University of Mississippi</a> y un M.A. en políticas públicas de la <a href='https://www.utdt.edu/'>Universidad Torcuato Di Tella</a>.
