@@ -30,7 +30,7 @@ latest_posts:
 ---
 
 
-¡Bienvenidos! 
+####¡Bienvenidos! 
 
 Soy Lecturer en el Departamento de Ciencia Política en <a href='https://www.clemson.edu/cbshs/departments/political-science/'>Clemson University</a>. Previamente, fui Assistant Professor en ciencia política en <a href='https://www.qatar.tamu.edu/academics/arts-and-sciences/'>Texas A&M University at Qatar</a>. Obtuve mi doctorado en ciencia política en la <a href='https://www.polisci.pitt.edu/'>University of Pittsburgh</a>. Tengo un B.A. en ciencia política de la <a href='https://olemiss.edu/'>University of Mississippi</a> y un M.A. en políticas públicas de la <a href='https://www.utdt.edu/'>Universidad Torcuato Di Tella</a>.
 
@@ -39,8 +39,3 @@ Mis intereses de investigación se encuentran en la intersección del comportami
 Mi trabajo de investigación ha sido publicado en *Review of International Political Economy*, *Party Politics* y *Foreign Policy Analysis*.  
 
 
-<a href="mailto:jhoneke@clemson.edu"
-   style="display: inline-block; background-color: #00369f; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;"
-   target="_blank" rel="noopener noreferrer">
-   `jhoneke@clemson.edu`
-</a>
