@@ -39,9 +39,9 @@ My work has been published in the *Review of International Political Economy*, *
 
 
 🟦**NEW PUBLICATIONS:**  
-[“And some, I assume, are good people”: Determinants of elites’ strategic discourse about immigrants and refugees](https://doi.org/10.1016/j.electstud.2025.102952). *Electoral Studies*. [<a href="https://www.researchgate.net/publication/393723832_And_some_I_assume_are_good_people_Determinants_of_elites'_strategic_discourse_about_immigrants_and_refugees">`Ungated`</a>] 
+🔹[“And some, I assume, are good people”: Determinants of elites’ strategic discourse about immigrants and refugees](https://doi.org/10.1016/j.electstud.2025.102952). *Electoral Studies*. [<a href="https://www.researchgate.net/publication/393723832_And_some_I_assume_are_good_people_Determinants_of_elites'_strategic_discourse_about_immigrants_and_refugees">`Ungated`</a>] 
 
-[This land is our land: Radical right parties and the environmental issue in Europe](https://doi.org/10.1177/13540688251347882). *Party Politics*. [<a href="https://www.researchgate.net/publication/392469332_This_Land_is_Our_Land_Radical_Right_Parties_and_the_Environmental_Issue_in_Europe">`Ungated`</a>]
+🔹[This land is our land: Radical right parties and the environmental issue in Europe](https://doi.org/10.1177/13540688251347882). *Party Politics*. [<a href="https://www.researchgate.net/publication/392469332_This_Land_is_Our_Land_Radical_Right_Parties_and_the_Environmental_Issue_in_Europe">`Ungated`</a>]
 
 
 
