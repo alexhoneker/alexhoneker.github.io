@@ -8,8 +8,7 @@ nav_order: 3
 ---
 
 **Clemson University**  
-🔹 Quantitative Methods in Political Science | <a href="/assets/pdf/Clemson_QM_Spring26.pdf">`Spring 2026`</a>
-
+🔹 Quantitative Methods in Political Science | <a href="/assets/pdf/Clemson_QM_Spring26.pdf">`Spring 2026`</a>   
 🔹 International Political Economy | <a href="https://www.dropbox.com/scl/fi/x0ajgyg9whst91fd8rtbj/IPE_Syllabus_Spring2025.pdf?rlkey=4sslerdlls42fg711ro3dvdi5&e=1&st=ok4axeum&dl=0">`Spring 2025`</a>    
 🔹 Comparative Politics | <a href="https://www.dropbox.com/scl/fi/7nldnzd0om5bw3ask1hcf/CompPol_Fall24_Honeker_Syllabus.pdf?rlkey=wwf9c9atotc06wxhvm3dlf9h0&e=1&st=bycf74zp&dl=0">`Fall 2024`</a> | <a href="https://www.dropbox.com/scl/fi/r2rekrnh8xxxs2jbo1w2p/CompPol_Syllabus_Spring25_Sec1-3.pdf?rlkey=251ug37qsp0ncv5kx3442340n&e=1&st=6yw60ynn&dl=0">`Spring 2025`</a> | <a href= "https://www.dropbox.com/scl/fi/k356irrb986w734n1j7en/Syllabus_Fall2025_CP.pdf?rlkey=j5soqli3wn7r44fu4ct6wwh91&st=0c8k2xeb&dl=0">`Fall 2025`</a>   
 🔹 International Relations | <a href="https://www.dropbox.com/scl/fi/z2n20lqkgwwkmr0po8uy4/IR_Fall24_Honeker_Syllabus.pdf?rlkey=ho1qdm73xvek5rtziv3v5r98g&e=1&st=220wjab0&dl=0">`Fall 2024`</a> | <a href="https://www.dropbox.com/scl/fi/wusq7o18e3gmrsih0tdd7/Syllabus_Fall2025_IR.pdf?rlkey=ji4zhshv2uagg6erhuqy84tsq&st=wbnvhxiq&dl=0">`Fall 2025`</a>      
